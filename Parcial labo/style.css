@@ -189,9 +189,11 @@ aside button{
     height: 80px;
 }
 
-.imgTacho:hover{
-    border: 3px black solid;
-    padding: 3px;
+.borrar:hover{
+    margin: auto;
+    border: 2px black solid;
+    width: 35px;
+    height: 38px;
 }
 
 .fin-presentacion{
